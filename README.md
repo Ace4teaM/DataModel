@@ -1,2 +1,2 @@
-# DataModel
-Exemple implémentation de modèle de données SQL/C# (sans dépendances)
+# datamodel
+Modèle de données SQL/C#
